@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+.describe {
+    color: gray;
+}
+
+.camp{
+    width: 100%;
+    max-width: 800px;
+    padding-bottom: 20px
+}
+
+.foot {
+    color: gray;
+    text-align: right;
+}
